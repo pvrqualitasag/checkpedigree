@@ -4,6 +4,9 @@
 #' @description
 #' Simple check of pedigrees
 #'
+#' @details
+#' Details about the function
+#'
 #' @importFrom readr read_delim
 #'
 #' @param ps_ped_file path to pedigree input file
